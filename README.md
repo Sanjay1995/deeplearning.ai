@@ -17,7 +17,8 @@ This specialization has five courses.
    4. Understand the key parameters in a neural network's architecture
    
 - **Programming Assignments**
-1. [Week 2 - Programming Assignment 1 - Logistic Regression with a Neural Network mindset](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week2/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv4.ipynb)
-  2. [Week 3 - Programming Assignment 2 - Planar data classification with one hidden layer](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week3/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv4.ipynb)
-  3. [Week 4 - Programming Assignment 3 - Building your Deep Neural Network: Step by Step](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week4/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv5.ipynb)
-  4. [Week 4 - Programming Assignment 4 - Deep Neural Network for Image Classification: Application](https://github.com/Gurupradeep/deeplearning.ai-Assignments/blob/master/Neural-networks-Deep-learning/Week4/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv3.ipynb)
+  1. [Week 2 - Programming Assignment 1 - Python Basics with Numpy](https://github.com/Sanjay1995/deeplearning.ai/blob/master/Neural-Networks-and-Deeplearning/week2/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb)
+  2. [Week 2 - Programming Assignment 1 - Logistic Regression with a Neural Network mindset](https://github.com/Sanjay1995/deeplearning.ai/blob/master/Neural-Networks-and-Deeplearning/week2/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv4.ipynb)
+  3. [Week 3 - Programming Assignment 2 - Planar data classification with one hidden layer](https://github.com/Sanjay1995/deeplearning.ai/blob/master/Neural-Networks-and-Deeplearning/week3/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv4.ipynb)
+  4. [Week 4 - Programming Assignment 3 - Building your Deep Neural Network: Step by Step](https://github.com/Sanjay1995/deeplearning.ai/blob/master/Neural-Networks-and-Deeplearning/week4/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv5.ipynb)
+  5. [Week 4 - Programming Assignment 4 - Deep Neural Network for Image Classification: Application](https://github.com/Sanjay1995/deeplearning.ai/blob/master/Neural-Networks-and-Deeplearning/week4/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv3.ipynb)
