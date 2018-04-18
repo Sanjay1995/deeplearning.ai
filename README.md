@@ -22,3 +22,12 @@ This specialization has five courses.
   3. [Week 3 - Programming Assignment 2 - Planar data classification with one hidden layer](https://github.com/Sanjay1995/deeplearning.ai/blob/master/Neural-Networks-and-Deeplearning/week3/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv4.ipynb)
   4. [Week 4 - Programming Assignment 3 - Building your Deep Neural Network: Step by Step](https://github.com/Sanjay1995/deeplearning.ai/blob/master/Neural-Networks-and-Deeplearning/week4/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv5.ipynb)
   5. [Week 4 - Programming Assignment 4 - Deep Neural Network for Image Classification: Application](https://github.com/Sanjay1995/deeplearning.ai/blob/master/Neural-Networks-and-Deeplearning/week4/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv3.ipynb)
+  
+  
+- **Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
+- **Learning Objectives** :
+   1. Understand industry best-practices for building deep learning applications. 
+   2. Be able to effectively use the common neural network "tricks", including initialization, L2 and dropout regularization, Batch           normalization, gradient checking, 
+   3. Be able to implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and         Adam, and check for their convergence. 
+   4. Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance
+   5. Be able to implement a neural network in TensorFlow.
